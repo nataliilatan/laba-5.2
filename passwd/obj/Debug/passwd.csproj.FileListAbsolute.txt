@@ -1,0 +1,6 @@
+C:\Users\Наташа\source\repos\passwd\passwd\bin\Debug\passwd.exe.config
+C:\Users\Наташа\source\repos\passwd\passwd\bin\Debug\passwd.exe
+C:\Users\Наташа\source\repos\passwd\passwd\bin\Debug\passwd.pdb
+C:\Users\Наташа\source\repos\passwd\passwd\obj\Debug\passwd.csprojAssemblyReference.cache
+C:\Users\Наташа\source\repos\passwd\passwd\obj\Debug\passwd.exe
+C:\Users\Наташа\source\repos\passwd\passwd\obj\Debug\passwd.pdb
